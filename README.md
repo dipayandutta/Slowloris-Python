@@ -18,7 +18,7 @@ Simple. Look at the numbers. Slowloris creates number of threads you gave. In a 
     Connected: 654 Close: 27710 Error: 0
     Connected: 800 Close: 29100 Error: 0
 
-But this is bad. Can you see how errors are more then connections are closed connections? This is something that you should
+But this is bad. Can you see how errors are more then closed connections? This is something that you should
 deal with and re-configure your stuff. 
 
     Connected: 400 Close: 10 Error: 754
